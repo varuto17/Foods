@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"path": "../../../../my-react-app"
+	},
+	{
+		"path": "../../../js-basics"
+	},
+	{
+		"path": "../../../ONLY HTML"
+	},
+	{
+		"path": "../../../Varun HTML CSS Projects/Mosh Project"
+	},
+	{
+		"path": "../../../Components Practice"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Components Practice"
+  }
+}
